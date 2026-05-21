@@ -44,7 +44,3 @@ jupyter notebook
 ```
 
 Then open any lab notebook.
-
-## License
-
-MIT — see [LICENSE](LICENSE).
